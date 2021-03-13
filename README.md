@@ -106,7 +106,11 @@ Do not forget to terminate the instances, time is money
 ```bash
   aws ec2 terminate-instances --instance-ids i-0ad4ad0ba6eeea693
 ```
-waite a few seconds for the EC2 2B terminated
+waite a few seconds for the EC2 to be terminated
 ```bash
   aws ec2 delete-security-group --group-name example
 ```
+
+## p.s
+In case you familiar with Terraform you can do all of the above in one command, 
+all the explanations and of course the code in the following link
