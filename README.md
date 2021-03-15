@@ -94,7 +94,7 @@ Check Docker Compose Version
 ## Run the docker-compose
 get the file from git and run the docker-compose
 ```bash
-  git clone https://github.com/isaacTadela/docker.compose4EC2.git
+  git clone https://github.com/isaacTadela/docker-compose-in-EC2.git
   cd docker.compose4EC2/
   sudo docker-compose up
 ```
