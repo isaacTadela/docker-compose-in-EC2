@@ -1,4 +1,4 @@
-# docker.compose4EC2
+# Docker-compose-in-EC2
 this is a simple way to set up an EC2 instance and spinning 2 containers of mysql and wordpress using docker-compose
 
 Pre-requirements:
