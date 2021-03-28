@@ -26,6 +26,7 @@ show security group rules and get the sc id for example: sg-03440f667143e100e
 ## Amazon Machine Images (AMI):
 get the image id for ubnuntu in my case:
 Ubuntu Server 20.04 - ami-0d6aecf0f0425f42a
+
 Ubuntu Server 18.04 - ami-0a0d71ff90f62f72a
 	
 ## Launch a New EC2 Instance and waite:
